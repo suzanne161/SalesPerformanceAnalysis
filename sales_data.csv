@@ -1,0 +1,21 @@
+TransactionID,Date,ProductCategory,ProductName,QuantitySold,SalePrice,CustomerID,Region
+1,2023-01-15,Electronics,Smartphone,2,300,101,North
+2,2023-01-20,Electronics,Laptop,1,800,102,South
+3,2023-02-10,Home Appliances,Microwave,3,150,103,East
+4,2023-02-15,Electronics,Smartphone,1,300,104,West
+5,2023-03-05,Furniture,Chair,5,50,105,North
+6,2023-03-10,Home Appliances,Refrigerator,1,1200,106,South
+7,2023-03-15,Electronics,Laptop,2,800,107,East
+8,2023-04-01,Furniture,Table,1,200,108,West
+9,2023-04-10,Home Appliances,Oven,2,400,109,North
+10,2023-04-15,Electronics,Smartphone,3,300,110,South
+11,2023-05-01,Electronics,Smartwatch,4,200,111,East
+12,2023-05-10,Furniture,Sofa,1,600,112,West
+13,2023-05-15,Home Appliances,Dishwasher,1,700,113,North
+14,2023-06-01,Electronics,Laptop,1,800,114,South
+15,2023-06-10,Furniture,Desk,2,150,115,East
+16,2023-06-15,Home Appliances,Blender,3,100,116,West
+17,2023-07-01,Electronics,Smartphone,1,300,117,North
+18,2023-07-10,Furniture,Bookshelf,1,250,118,South
+19,2023-07-15,Home Appliances,Air Conditioner,1,500,119,East
+20,2023-08-01,Electronics,Smartwatch,2,200,120,West
