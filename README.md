@@ -24,3 +24,5 @@ The dataset used in this project contains sales transactions with the following 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/SalesPerformanceAnalysis.git
+
+   ![image](https://github.com/user-attachments/assets/b4838f9e-0632-4273-817d-c433264b225d)
